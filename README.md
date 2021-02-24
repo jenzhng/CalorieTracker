@@ -12,3 +12,5 @@ Driver class allows user to see all food records
 
 
 ## Screenshots
+
+![Alt text](/caltrack_driver_demo.png?raw=true "Driver demo")
