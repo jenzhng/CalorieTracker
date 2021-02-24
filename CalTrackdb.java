@@ -169,9 +169,9 @@ public class CalTrackdb {
                 /* Process ResultSet by moving the cursor forward via next().
                  *  For each row, get contents with getXxx(columnName).
                  */
-				System.out.format("+-------------------------------------------------+%n");
-                System.out.format("|           FOOD RECORD FOR " + date + "            |%n");
-				System.out.format("+-------------------------------------------------+%n");
+				System.out.format("+------------------------------------------------------------+%n");
+                System.out.format("|                 FOOD RECORD FOR " + date + "                 |%n");
+				System.out.format("+------------------------------------------------------------+%n");
                 int rowCount = 0;
                 int totalCalories = 0;
                 while (rset.next()) {   // Move cursor to next row, return false if no more row
