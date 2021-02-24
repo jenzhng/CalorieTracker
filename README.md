@@ -14,3 +14,4 @@ Driver class allows user to see all food records
 ## Screenshots
 
 ![Alt text](https://github.com/jenzhng/CalorieTracker/blob/main/caltrack_driver_demo.PNG)
+![Alt text](https://github.com/jenzhng/CalorieTracker/blob/main/caltrack_demo.PNG)
